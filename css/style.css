@@ -1,0 +1,58 @@
+#postNotificationForm{
+	margin:0;
+	margin-left:20px;
+	margin-bottom:100px;
+	}
+	
+#postNotificationForm h5{
+	margin:0;
+	margin-top:10px;
+	}
+	
+.groupElement{
+	margin-left:20px;
+	}
+	
+.postNotificationBlock{
+	background-color:#eee;
+	width:400px;
+	padding:20px;
+	padding-top:0px;
+	margin:20px;
+	}
+	
+.newGroup{
+	margin-left:40px;
+}
+
+.notificationSubmit{
+	text-align:right;
+	}
+	
+.globalMod{
+	clear:left;
+	float:left;
+	}
+.floatLeft{
+	float:left;
+	}
+	
+.floatRight{
+	float:right;
+	}
+	
+.pendingError{
+	color:red;
+	}
+	
+.groupElement{
+	height:30px;
+	}
+	
+.groupElement input{
+	float:right;
+	}
+	
+.textInput{
+	width:200px;
+	}
